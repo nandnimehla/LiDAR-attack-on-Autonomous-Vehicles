@@ -1,5 +1,7 @@
 # LiDAR-attack-on-Autonomous-Vehicles
 
+**You are requested to give proper Acknowledgement/ References to the author in order to use the images used below. **
+
 ![image](https://user-images.githubusercontent.com/70091050/208250556-8e6f4bcc-156f-48b4-bc29-f45d82217802.png)
 
 By adding mesh to the point cloud or obscuring the images being taken by the real-time camera on the autonomous car, we hope to better understand how attacks against LIDAR work. The main goal is to figure out how these attacks on LIDAR and cameras reduce the autonomous vehicle’s accuracy in detection of objects on the road while driving.
